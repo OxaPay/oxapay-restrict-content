@@ -4,6 +4,16 @@
 
 Restrict Content Pro is a powerful WordPress membership plugin that allows you to monetize content access. As a content restriction plugin, Restrict Content gives you full control over who can and cannot view content on your WordPress site. As a design tool, Restrict Content helps you create pages that dynamically display content based on user role or membership level.
 
+## Important Update: Restrict Content Pro is Now Kadence Memberships
+
+Restrict Content Pro has been rebranded and is now known as **Kadence Memberships**. To ensure compatibility with the latest version of the plugin, OxaPay has released an updated integration specifically for Kadence Memberships.
+
+You can access the updated OxaPay plugin for Kadence Memberships from the official GitHub repository:
+
+https://github.com/OxaPay/oxapay-kadence-memberships
+
+If you are using the latest version of Kadence Memberships, we recommend installing the updated OxaPay integration to ensure proper payment processing and full compatibility.
+
 ### Key Features of Restrict Content Pro: <a href="#key-features-of-restrict-content-pro" id="key-features-of-restrict-content-pro"></a>
 
 1. **Membership Levels:** Set access level, duration (in days, months, years), number of renewals, price, signup fee, status, assign WordPress user role. Set any price (including free) or optionally set a sign up fee. Set the frequency and period, and specify a user role that will be assigned to members when they register.
